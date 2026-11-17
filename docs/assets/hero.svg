@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Pattern Practice — Build the way you think</title><desc id="desc">Algorithm practice with six quests, five hint levels, and progress checkpoints. Project banner, not an application screenshot.</desc>
+<rect width="1280" height="420" rx="20" fill="#20372c"/>
+<g stroke="#385445" fill="none"><path d="M810 0v420M930 0v420M1050 0v420M1170 0v420M760 90h520M760 210h520M760 330h520"/></g>
+<rect x="56" y="52" width="40" height="40" rx="8" fill="#a6c69c"/><path d="M66 80v-8m10 8V65m10 15V58" stroke="#20372c" stroke-width="5"/>
+<text x="112" y="80" fill="#ecf2e7" font-family="Arial,sans-serif" font-weight="700" font-size="23">pattern practice</text>
+<text x="56" y="178" fill="#f4f5f0" font-family="Arial,sans-serif" font-size="56" font-weight="700">Build the way</text>
+<text x="56" y="244" fill="#bad1a8" font-family="Arial,sans-serif" font-size="56" font-weight="700">you think.</text>
+<text x="58" y="293" fill="#bac9bc" font-family="Arial,sans-serif" font-size="20">Reason through algorithms. Make every checkpoint count.</text>
+<text x="58" y="365" fill="#d9a477" font-family="monospace" font-size="15">6 QUESTS   /   5 HINT LEVELS   /   600 AVAILABLE XP</text>
+<g font-family="monospace" font-size="17"><rect x="837" y="115" width="350" height="180" rx="10" fill="#f4f5f0"/><text x="865" y="154" fill="#315f46">THE PRACTICE LOOP</text><text x="865" y="192" fill="#354638">Understand → Attempt</text><text x="865" y="227" fill="#354638">Check → Reflect</text><rect x="865" y="252" width="292" height="8" rx="4" fill="#dce4d7"/><rect x="865" y="252" width="205" height="8" rx="4" fill="#759969"/></g>
+</svg>
